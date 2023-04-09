@@ -1,4 +1,3 @@
-# RodrigooliveiraBEPR
 Nome : Gerar Dados
 
 em :
@@ -15,7 +14,7 @@ trabalhos :
       - usa : Platane/snk@master
         id : cobra-gif
         com :
-          github_user_name : rafaballerini
+          github_user_name :RodrigooliveiraBRPR
           svg_out_path : dist/github-contribution-grid-snake.svg
 
       - usa : crazy-max/ghaction-github-pages@v2.1.3
